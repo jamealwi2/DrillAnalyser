@@ -1,6 +1,7 @@
 # DrillAnalyser
 
 Usage :
+
 [1] <Path_to_Input_Directory> <Type_of_Operation (extract/grep/query_log)> <Path_to_Output_Directory> <Query_Profile_ID/Timestamp/Grep_Key>
 
 [2] <Path_to_Input_Directory> <Type_of_Operation (extract/grep/query_log)> <Path_to_Output_Directory> <Start_Timestamp> <End_Timestamp>
